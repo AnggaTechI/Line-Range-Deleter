@@ -88,7 +88,7 @@ if __name__ == "__main__":
 Run the script:
 
 ```bash
-python main.py
+python delete.py
 ```
 
 Then enter:
